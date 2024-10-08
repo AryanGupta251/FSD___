@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+body{
+    background-color: beige;
+}
+
+#r1{
+ font-size: 50px;
+ background-color: aquamarine;
+ border-color: chocolate;
+ border-width:4px;
+ border-style: dotted;
+}
+
+div{
+    text-align: center;
+    background-color: aliceblueS;
+
+}
+#table{
+    text-align: center;
+}
